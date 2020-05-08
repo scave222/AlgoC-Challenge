@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\bin\Debug\netcoreapp3.1\Max,Min,AverageArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Max,Min,AverageArray\obj\Debug\netcoreapp3.1\Max,Min,AverageArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\bin\Debug\netcoreapp3.1\Swapstring.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Swapstring\obj\Debug\netcoreapp3.1\Swapstring.genruntimeconfig.cache

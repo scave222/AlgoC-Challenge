@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\bin\Debug\netcoreapp3.1\ShiftArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\ShiftArray\obj\Debug\netcoreapp3.1\ShiftArray.genruntimeconfig.cache

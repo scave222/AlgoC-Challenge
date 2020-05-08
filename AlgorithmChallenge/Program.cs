@@ -95,20 +95,17 @@ namespace AlgorithmChallenge
             // };
             // maxMinAverage();
 
-                //Swap string for array negative value---------------------------------------------
-            int[] SwapString = {3,-4,5,6,-8,-1};
-            IntegerDelegate ArrayNegative = () => {
-                int count = 0;
-
-                foreach(int num in SwapString){
-                    count++;
-                    if(num < 0){
-                        (string)SwapString[count] = "Codebits";
-                    }
-                    Console.WriteLine(num + ",");
-                }
-            };
-            ArrayNegative();
+                //Swap string for array negative value
+            // ArrayList SwapString = new ArrayList() {3,-4,5,6,-8,-1};
+            // IntegerDelegate ArrayNegative = () => {
+            //     for(int i = 0; i < SwapString.Count; i++){
+            //         if((int)SwapString[i] < 0){
+            //             SwapString[i] = "Codebits";
+            //         }
+            //         Console.Write(SwapString[i] + ",");
+            //     }
+            // };
+            // ArrayNegative();
 
                 //Print all Odd numbers from 1 - 255
             // IntegerDelegate Oddnum = () => {

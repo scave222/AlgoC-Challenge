@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\bin\Debug\netcoreapp3.1\MaxofArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\MaxofArray\obj\Debug\netcoreapp3.1\MaxofArray.genruntimeconfig.cache

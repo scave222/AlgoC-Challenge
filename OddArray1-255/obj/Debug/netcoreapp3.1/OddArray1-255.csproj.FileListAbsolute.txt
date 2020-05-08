@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\bin\Debug\netcoreapp3.1\OddArray1-255.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\OddArray1-255\obj\Debug\netcoreapp3.1\OddArray1-255.genruntimeconfig.cache

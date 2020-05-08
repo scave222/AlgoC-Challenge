@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OddArray1-255/1.0.0": {
+        "runtime": {
+          "OddArray1-255.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OddArray1-255/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

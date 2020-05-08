@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.genruntimeconfig.cache

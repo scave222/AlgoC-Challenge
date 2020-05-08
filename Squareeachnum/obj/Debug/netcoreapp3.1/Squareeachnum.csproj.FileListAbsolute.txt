@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\bin\Debug\netcoreapp3.1\Squareeachnum.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Squareeachnum\obj\Debug\netcoreapp3.1\Squareeachnum.genruntimeconfig.cache

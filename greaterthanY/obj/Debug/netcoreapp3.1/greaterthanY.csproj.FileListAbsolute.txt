@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\bin\Debug\netcoreapp3.1\greaterthanY.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\greaterthanY\obj\Debug\netcoreapp3.1\greaterthanY.genruntimeconfig.cache

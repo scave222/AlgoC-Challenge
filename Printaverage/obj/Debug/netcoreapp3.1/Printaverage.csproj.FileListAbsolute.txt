@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\bin\Debug\netcoreapp3.1\Printaverage.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Printaverage\obj\Debug\netcoreapp3.1\Printaverage.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\bin\Debug\netcoreapp3.1\Iteratethrough.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Iteratethrough\obj\Debug\netcoreapp3.1\Iteratethrough.genruntimeconfig.cache

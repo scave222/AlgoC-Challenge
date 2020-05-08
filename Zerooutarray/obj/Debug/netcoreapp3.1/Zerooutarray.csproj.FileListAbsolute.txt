@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\bin\Debug\netcoreapp3.1\Zerooutarray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\Zerooutarray\obj\Debug\netcoreapp3.1\Zerooutarray.genruntimeconfig.cache
