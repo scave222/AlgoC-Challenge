@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.exe
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.deps.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.runtimeconfig.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\bin\Debug\netcoreapp3.1\AlgorithmChallenge.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.dll
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.pdb
+C:\codebits-academy\html5\C#\AlgoC#Challenge\AlgorithmChallenge\obj\Debug\netcoreapp3.1\AlgorithmChallenge.genruntimeconfig.cache
